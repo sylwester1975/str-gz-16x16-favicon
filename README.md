@@ -1,0 +1,1 @@
+# str-gz-16x16-favicon
